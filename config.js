@@ -15,8 +15,8 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Black Agency and Purchases within Southern Literature',
-    subtitle: 'Spatial Journeys across the South 2',
+    title: 'Black Agency and Southern Literature',
+    subtitle: 'Examining the relationship between Black purchases and movement in Southern Literature',
     byline: 'Jacob Dinman',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'Local Color Stories',
             image: './assets/Keezell_Hall.jpg',
-            description: 'This is where I insert a description of the novel',
+            description: 'Local color stories were a very popular form of short stories that were published in various newspapers in the 19th century. Stories like “Marse Chan” by Thomas Nelson Page and “Free Joe and the Rest of the World” paint picturesque images of the Southern Landscape where black characters, usually formerly enslaved, are treated as stagnant fixtures of the landscape. Stories like “Free Joe and the Rest of the World” and “Marse Chan” imply that slavery was the natural and happier way of life for African-Americans in the south.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
