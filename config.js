@@ -51,6 +51,36 @@ var config = {
             ]
         },
         {
+            id: 'opening',
+            alignment: 'centered',
+            hidden: false,
+            title: 'Local Color Stories',
+            image: 'https://twain.lib.virginia.edu/huckfinn/chan2.jpg',
+            description: 'Local color stories were a very popular form of short stories that were published in various newspapers in the 19th century. Stories like “Marse Chan” by Thomas Nelson Page and “Free Joe and the Rest of the World” paint picturesque images of the Southern Landscape where black characters, usually formerly enslaved, are treated as stagnant fixtures of the landscape. Stories like “Free Joe and the Rest of the World” and “Marse Chan” imply that slavery was the natural and happier way of life for African-Americans in the south.',
+            location: {
+                center: [-90.3150946, 38.6605671],
+                zoom: 4,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
