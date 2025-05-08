@@ -16,7 +16,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Black Agency and Southern Literature',
-    subtitle: 'Examining the relationship between Black purchases and movement in Southern Literature',
+    subtitle: 'Examining the relationship between purchases by African-Americans and movement in Southern Literature',
     byline: 'Jacob Dinman',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
