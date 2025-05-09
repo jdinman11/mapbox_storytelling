@@ -81,7 +81,7 @@ var config = {
             ]
         },
         {
-            id: 'chapter-one',
+            id: 'chapone',
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God',
@@ -101,7 +101,7 @@ var config = {
             },
         },
          {
-            id: 'chapter-onecont',
+            id: 'chapone-cont',
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God',
@@ -151,7 +151,7 @@ var config = {
             ]
         },
 {
-            id: 'cpcont',
+            id: 'cp-cont',
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple',
@@ -209,7 +209,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'stb',
+            id: 'stb-cont',
             alignment: 'right',
             hidden: false,
             title: 'Salvage The Bones',
