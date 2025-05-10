@@ -217,9 +217,9 @@ var config = {
             description: 'In  <em>Salvage The Bones</em>, Esch’s family never reaches the same economic freedom that is reached by Janie and Celie. Her father is an alcoholic and does not have a job, and their car is broken down limiting their mobility. This leads them to alternative methods for attempting to escape their economic position. All instances of mobility are either by foot, or having to get their friend Big Henry to drive them places. This means that there are only 27 instances of mobility in the novel. Of these few instances of movement, they only are in a 31 mile range, that between De Lisle, Mississippi and Martins Pine Hill Estates, Mississippi. Likewise, there are only 18 instances of African-Americans making purchases in the novel.',
             location: {
                 center: [-89.09330,30.40415], 
-                zoom: 10.0,
-                pitch: 0,
-                bearing: 60
+                zoom: 9.0,
+                pitch: 60,
+                bearing: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
