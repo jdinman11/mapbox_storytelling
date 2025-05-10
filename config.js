@@ -1,5 +1,5 @@
 var config = {
-    style: 'https://api.mapbox.com/styles/v1/jdinman/cmacuc0lm009301quhqjghfcr.html?title=view&access_token=pk.eyJ1IjoiamRpbm1hbiIsImEiOiJjbTk4dHV4amQwNmh6MmpvaDQxNzVwc2IzIn0.9_GpdljINdn0ymytgzsm-A&zoomwheel=true&fresh=true#2/38/-34',
+    style: 'https://api.mapbox.com/styles/v1/jdinman/cmacuc0lm009301quhqjghfcr?access_token=pk.eyJ1IjoiamRpbm1hbiIsImEiOiJjbTk4dHV4amQwNmh6MmpvaDQxNzVwc2IzIn0.9_GpdljINdn0ymytgzsm-A',
     // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoiamRpbm1hbiIsImEiOiJjbTk4dHV4amQwNmh6MmpvaDQxNzVwc2IzIn0.9_GpdljINdn0ymytgzsm-A',
     showMarkers: false,
